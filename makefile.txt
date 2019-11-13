@@ -1,0 +1,4 @@
+all:
+	javac popular_keyword.java
+	javac node_fibo_heap.java
+	javac fibo_heap_fh.java
